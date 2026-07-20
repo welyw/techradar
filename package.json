@@ -81,5 +81,8 @@
     "node": ">=18",
     "npm": ">=9"
   },
-  "private": true
+  "private": true,
+  "overrides": {
+    "qs": "6.15.2"
+  }
 }
